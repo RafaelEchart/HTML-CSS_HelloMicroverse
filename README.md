@@ -33,7 +33,7 @@ To get a local copy up and running follow these simple example steps.
 
 ### Usage
 
-- Add the changes you want and feel free to push it into a new Branch!
+- Add the changes you want and feel free to use in your project!
 
 ### Run tests
 
@@ -41,7 +41,7 @@ To get a local copy up and running follow these simple example steps.
 
 ### Merge
 
-- Merge it with the main branch so we can all see your work!!🤝
+- Merge it so we can all see your work!!🤝
 
 
 
