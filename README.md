@@ -28,8 +28,8 @@ To get a local copy up and running follow these simple example steps.
 
 ### Setup
 
-- git clone https://github.com/RafaelEchart/HelloMicroverseProject.git
-- cd HelloMicroverseProject
+- git clone https://github.com/RafaelEchart/HTML-CSS_HelloMicroverse.git
+- cd HTML-CSS_HelloMicroverse
 
 ### Usage
 
